@@ -357,10 +357,10 @@ if ($conn->connect_error) {
                     <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="single-team mb-30">
                             <div class="team-img">
-                                <img src="assets/img/gallery/aziz.png" alt="">
+                                <img src="assets/img/gallery/ayoubpowergym.jpg" alt="" style="width:300px; height:300px; object-fit:cover;">
                                 <div class="team-caption">
                                     <span>Director</span>
-                                    <h3><a href="#">Med Aziz Turki</a></h3>
+                                    <h3><a href="#">Ayoub Louati</a></h3>
                                     <!-- Blog Social -->
                                     <div class="team-social">
                                         <ul>
@@ -377,10 +377,10 @@ if ($conn->connect_error) {
                     <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="single-team mb-30">
                             <div class="team-img">
-                                <img src="assets/img/gallery/jebali.png" alt="">
+                                <img src="assets/img/gallery/aziz.png" alt="" style="width:300px; height:300px; object-fit:cover;">
                                 <div class="team-caption">
                                     <span>Co-Director</span>
-                                    <h3><a href="#">Jebali Dhia</a></h3>
+                                    <h3><a href="#">Med Aziz Turki</a></h3>
                                     <!-- Blog Social -->
                                     <div class="team-social">
                                         <ul>
